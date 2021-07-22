@@ -1,0 +1,2 @@
+# FrostSix
+A BetterDiscord Addon
